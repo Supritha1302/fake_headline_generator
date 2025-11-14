@@ -1,2 +1,2 @@
 # fake_headline_generator
-this fake_headline_generator is a Python project
+This fake_headline_generator is a Python project
